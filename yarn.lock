@@ -8674,7 +8674,7 @@ fast-equals@^3.0.0:
   resolved "https://registry.yarnpkg.com/fast-equals/-/fast-equals-3.0.0.tgz#efbe679d4c0d74040f61d4dda3e6bcb3bdccab82"
   integrity sha512-Af7nSOpf7617idrFg0MJY6x7yVDPoO80aSwtKTC0afT8B/SsmvTpA+2a+uPLmhVF5IHmY5NPuBAA3dJrp55rJA==
 
-fast-folder-size@^1.6.1:
+fast-folder-size@1.6.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/fast-folder-size/-/fast-folder-size-1.6.1.tgz#1dc1674842854032cf07a387ba77c66546c547eb"
   integrity sha512-F3tRpfkAzb7TT2JNKaJUglyuRjRa+jelQD94s9OSqkfEeytLmupCqQiD+H2KoIXGtp4pB5m4zNmv5m2Ktcr+LA==
@@ -18197,12 +18197,12 @@ tree-kill@^1.2.2:
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 tree-node-cli@^1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/tree-node-cli/-/tree-node-cli-1.5.2.tgz#c684fb9e7c2b9b29aa023eebaa9a095b6f93bf93"
-  integrity sha512-lBUNLk3NpRDkdsneWxa6mj5zfV/RZ5TWUniGuGprgmhijatHPcSMxyCs7bKpAqCLfPLZq7moQYLIiuVaWG/FOQ==
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/tree-node-cli/-/tree-node-cli-1.6.0.tgz#15b76fd7381be650746f5ea06bd70049a3448c08"
+  integrity sha512-M8um5Lbl76rWU5aC8oOeEhruiCM29lFCKnwpxrwMjpRicHXJx+bb9Cak11G3zYLrMb6Glsrhnn90rHIzDJrjvg==
   dependencies:
     commander "^5.0.0"
-    fast-folder-size "^1.6.1"
+    fast-folder-size "1.6.1"
     pretty-bytes "^5.6.0"
 
 trim-newlines@^3.0.0:
